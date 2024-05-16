@@ -128,3 +128,4 @@ Feel free to contribute 🧙 to `ethereum-boilerplate` project. But first, **ple
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
+This is an amazing project, and I will like to make my own contribution to it.
